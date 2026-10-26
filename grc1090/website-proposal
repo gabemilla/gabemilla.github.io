@@ -1,0 +1,99 @@
+<!doctype html>  
+<html>
+    <head>
+        <meta charset="UTF-8">
+        <meta name="viewport" content="width=device-width, initial-scale=1">
+         <link rel="stylesheet" type="text/css" href="https://grc-ribeiro.github.io/files/proposal.css"> 
+        
+    </head>
+    <body>
+    
+        <div class="container">
+        
+            <h1>Final project proposal</h1>
+            
+            
+            <p>Miller's Mind</p>
+            
+            <p>Streetwear designed by artists, for artists and meant to be worn in all occasions. </p>
+            
+            <h2>Target audience</h2>
+            
+            <p>Artists and individuals who appreciate streetwear and support independent art. </p>
+            <p>Their goals are to find unique clothing desings to wear and show off their support for underground artists. </p>
+            
+           
+            <p><a href="https://wearebraindead.com">Brain Dead</a></p> 
+            <img src="braindead1.png" alt="Screenshot of the ____________ page of the ___________ website." title="" />
+            
+            <img src="braindead2.png" alt="Screenshot of the ____________ page of the ___________ website." title="" />
+
+            <h3>GX1000</h3>
+            <p><a href="http://www.gx1000.com">gx1000.com</a></p> 
+            <img src="gx10001.png" alt="Screenshot of the ____________ page of the ___________ website." title="" />
+
+            <img src="gx10002.png" alt="Screenshot of the ____________ page of the ___________ website." title="" />
+
+
+            <h3>FTC</h3>
+            <p><a href="http://www.ftcsf.com">ftcsf.com</a></p> 
+            <img src="ftc1.png" alt="Screenshot of the ____________ page of the ___________ website." title="" />
+            
+            <img src="ftc2.png" alt="Screenshot of the ____________ page of the ___________ website." title="" />
+
+
+            <h2>Website content</h2>
+           
+           
+           
+           <nav> 
+                 <ul>
+                    <li>SHOP</li>
+                    <li>ABOUT US</li>
+                    <li>CONTACT</li>
+                    <li>LOCATION</li>
+                </ul>
+            </nav>
+            
+            <section> 
+            
+					<h1> SHOP </h1>
+				
+					<p>  
+                        <p>Hoodies [blue hoodie with embroidery]</P>
+                        <p>Shirts [white t-shirt with graphic]</p>
+                        <p>Hats [black baseball cap]</p>
+                        <p>Pants [blue jeans]</p>
+                        <p>Shorts [black shorts]</p>
+                        <p>Jackets [brown leather jacket]</p>
+                        <p>Socks [white crew socks]</p>
+                        <p>Art prints [abstract art print]</p>
+                        
+					</p>
+				
+            </section>
+            
+            <section> 
+            
+					<h1> ABOUT US </h1>
+				
+					<p>   We are an independent team of passionate artists dedicated to creating high-quality products for our customers.   </p>
+					<p>    [Photo of the team of artists] </p>
+            </section> 
+            <section> 
+                <h1> CONTACT </h1>
+                <p> Email: contact@miller'smind.com</p>
+                <p> Phone: (123) 456-7890</p>
+                <p> Social Media: @millersmind</p>
+            </section>
+            <section> 
+                <h1> LOCATION </h1>
+                <p> 123 Main Street, San Francisco, CA 90001</p>
+                <p> [Map of the location] </p>
+            
+        
+        
+        </div>
+    </body>
+</html>
+
