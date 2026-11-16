@@ -12,7 +12,7 @@ min-height: 100vh;
 body {
 font-family: sans-serif}
 
-
+nav ul li.selected a { }
 
 
 
